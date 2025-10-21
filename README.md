@@ -1,4 +1,4 @@
-
+ 
 #  Análisis del Titanic con Árbol de Decisión
 
 Este proyecto implementa un modelo de **árbol de decisión** para predecir la supervivencia de los pasajeros del Titanic, utilizando el conjunto de datos `DataSet_Titanic.csv`.  
